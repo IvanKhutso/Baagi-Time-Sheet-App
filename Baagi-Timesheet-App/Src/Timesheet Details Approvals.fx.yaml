@@ -1,0 +1,159 @@
+"'Timesheet Details Approvals' As screen":
+
+    "cmp_TimesheetDetails_Background As 'Screen Background'":
+
+    "gal_TimeshetDetails_CheckTasks As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
+        BorderColor: =RGBA(255, 255, 255, 1)
+        DelayItemLoading: =true
+        Height: =355
+        Items: =Timesheet
+        Layout: =Layout.Vertical
+        LoadingSpinner: =LoadingSpinner.Data
+        ShowNavigation: =true
+        ShowScrollbar: =false
+        TemplateSize: =60
+        Width: =1305
+        X: =30
+        Y: =185
+        ZIndex: =1
+
+        Rectangle1 As rectangle:
+            Fill: =RGBA(219, 219, 219, 1)
+            Height: =60
+            OnSelect: =Select(Parent)
+            Width: =1295
+            ZIndex: =1
+
+        lbl_TimesheetDetails_HoursWork As label:
+            Fill: =RGBA(219, 219, 219, 1)
+            Height: =58
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.Hours
+            Width: =67
+            X: =882
+            Y: =2
+            ZIndex: =2
+
+        cbx_TimesheetDetails_Task As checkbox:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            CheckboxBorderColor: =RGBA(166, 166, 166, 1)
+            Font: =Font.Georgia
+            Height: =58
+            Text: =""
+            Width: =68
+            X: =1227
+            ZIndex: =3
+
+        Label1 As label:
+            Height: =35
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.'Approval Status'.Value
+            Width: =125
+            X: =1062
+            Y: =11
+            ZIndex: =4
+
+        Label2 As label:
+            Height: =52
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.Task
+            Width: =825
+            Y: =6
+            ZIndex: =5
+
+    icn_TimesheetDetails_Back As icon.BackArrow:
+        Color: =RGBA(0, 0, 0, 1)
+        Icon: =Icon.BackArrow
+        OnSelect: =Navigate('Timesheet Approvals')
+        X: =30
+        Y: =20
+        ZIndex: =2
+
+    cbx_TimesheetDetails_AllTasks As checkbox:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        CheckboxBorderColor: =RGBA(166, 166, 166, 1)
+        Font: =Font.Georgia
+        Height: =52
+        Text: ="Check All Tasks"
+        Width: =232
+        X: =45
+        Y: =98
+        ZIndex: =3
+
+    lbl_TimesheetDetails_Action As label:
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =28
+        Text: ="Action"
+        Width: =83
+        X: =1252
+        Y: =155
+        ZIndex: =4
+
+    lbl_TimesheetDetails_HoursWorked As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =31
+        Text: ="Hours Worked"
+        Width: =132
+        X: =886
+        Y: =154
+        ZIndex: =5
+
+    txt_TimesheetDetails_Reason As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: =""
+        Fill: =RGBA(219, 219, 219, 1)
+        Height: =80
+        Width: =813
+        X: =30
+        Y: =580
+        ZIndex: =6
+
+    lbl_TimesheetDetails_Reason As label:
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Text: ="Reason"
+        X: =30
+        Y: =540
+        ZIndex: =7
+
+    lbl_TimeSheetDeails_TotalHrs As label:
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Text: ="Total Hours"
+        X: =886
+        Y: =540
+        ZIndex: =8
+
+    lbl_TimesheetDetails_TotalHours As label:
+        Height: =64
+        Text: =
+        Width: =117
+        X: =886
+        Y: =580
+        ZIndex: =9
+
+    btn_TimeSheetDetails_Submit As button:
+        Text: ="Submit"
+        X: =1175
+        Y: =620
+        ZIndex: =10
+
+    lbl_TimesheetDetails_HoursWorked_1 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =28
+        Text: ="Approval Status"
+        Width: =174
+        X: =1078
+        Y: =155
+        ZIndex: =11
+
+    lbl_TimesheetDetails_HoursWorked_2 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =31
+        Text: ="Task"
+        Width: =132
+        X: =65
+        Y: =154
+        ZIndex: =12
+
