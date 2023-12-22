@@ -24,14 +24,14 @@
         Rectangle2 As rectangle:
             Fill: =RGBA(219, 219, 219, 1)
             Height: =120
-            OnSelect: =Select(Parent)
+            OnSelect: =Navigate('Timesheet Details Approvals');Set(EmployeeRecord,ThisItem)
             Width: =409
             X: =8
             ZIndex: =1
 
         Label3 As label:
             FontWeight: =FontWeight.Semibold
-            OnSelect: =Select(Parent)
+            OnSelect: =Navigate('Timesheet Details Approvals');Set(EmployeeRecord,ThisItem)
             Text: |-
                 ="Name:"
             X: =20
@@ -40,7 +40,7 @@
 
         Label3_1 As label:
             FontWeight: =FontWeight.Semibold
-            OnSelect: =Select(Parent)
+            OnSelect: =Navigate('Timesheet Details Approvals');Set(EmployeeRecord,ThisItem)
             Text: |-
                 ="Email:"
             X: =20
@@ -48,7 +48,7 @@
             ZIndex: =3
 
         Label4 As label:
-            OnSelect: =Select(Parent)
+            OnSelect: =Navigate('Timesheet Details Approvals');Set(EmployeeRecord,ThisItem)
             Text: =ThisItem.DisplayName
             Width: =275
             X: =95
@@ -56,7 +56,7 @@
             ZIndex: =4
 
         Label4_1 As label:
-            OnSelect: =Select(Parent)
+            OnSelect: =Navigate('Timesheet Details Approvals');Set(EmployeeRecord,ThisItem)
             Text: =ThisItem.Mail
             Width: =310
             X: =95
