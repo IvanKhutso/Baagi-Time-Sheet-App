@@ -1,12 +1,12 @@
 "'Leave Approvals_Details' As screen":
 
-    "cmp_LeaveApprovals_1 As 'Screen Background'":
+    "cmp_LeaveApprovals_Details As 'Screen Background'":
         ZIndex: =2
 
-    "gal_LeaveApprovals_1 As gallery.'BrowseLayout_Vertical_OneImageThreeColumnVariant_ver5.0'":
+    "gal_LeaveApprovals_Details As gallery.'BrowseLayout_Vertical_OneImageThreeColumnVariant_ver5.0'":
         DelayItemLoading: =true
         Fill: =RGBA(250, 250, 250, 1)
-        Height: =487
+        Height: =354
         Items: =Leave
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
@@ -18,4 +18,23 @@
         X: =20
         Y: =148
         ZIndex: =3
+
+    rdo_LeaveApprovals As radio:
+        Font: =Font.Georgia
+        Items: =["Approved","Rejected"]
+        Size: =16
+        Width: =208
+        X: =1158
+        Y: =502
+        ZIndex: =4
+
+    btn_LeaveApprovals_Submit As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(173, 216, 230, 1)
+        Font: =Font.Georgia
+        Height: =39
+        Text: ="Submit"
+        X: =1182
+        Y: =615
+        ZIndex: =5
 

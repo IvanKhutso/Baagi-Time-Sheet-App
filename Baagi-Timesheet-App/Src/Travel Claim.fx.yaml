@@ -40,7 +40,7 @@
             Y: =85
             ZIndex: =3
 
-    Form2 As form:
+    frm_TravelClaim As form:
         DataSource: =Travel
         DefaultMode: =FormMode.New
         Height: =391
@@ -834,8 +834,8 @@
         Fill: =RGBA(173, 216, 230, 1)
         Font: =Font.Georgia
         OnSelect: |-
-            =SubmitForm(Form2
-            );ResetForm(Form2);
+            =SubmitForm(frm_TravelClaim
+            );ResetForm(frm_TravelClaim);
             Navigate('TravelClaim Landing Screen')
         Text: ="Submit"
         X: =1184

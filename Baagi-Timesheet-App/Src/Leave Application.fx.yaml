@@ -40,7 +40,7 @@
             Y: =33
             ZIndex: =2
 
-    Form1 As form:
+    frm_LeaveApplication As form:
         DataSource: =Leave
         DefaultMode: =FormMode.New
         Height: =375
@@ -419,15 +419,15 @@
         Fill: =RGBA(173, 216, 230, 1)
         Font: =Font.Georgia
         OnSelect: |-
-            =SubmitForm(Form1
-            );ResetForm(Form1);
+            =SubmitForm(frm_LeaveApplication
+            );ResetForm(frm_LeaveApplication);
             Navigate('Leave Status Landing Screen')
         Text: ="Submit"
         X: =1167
         Y: =620
         ZIndex: =4
 
-    Icon1 As icon.BackArrow:
+    Ico_LeaveApplication_Back As icon.BackArrow:
         Height: =83
         Icon: =Icon.BackArrow
         OnSelect: =Back()

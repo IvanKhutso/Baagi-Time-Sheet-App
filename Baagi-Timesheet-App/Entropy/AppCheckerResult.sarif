@@ -674,19 +674,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Travel Date From_DataCard1'.DataCardValue10.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Travel Date From_DataCard1'.DataCardValue10.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Travel Date From_DataCard1'.DataCardValue10.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Travel Date From_DataCard1'.DataCardValue10.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Travel Date From_DataCard1'.DataCardValue10"
+                "type": "'Travel Claim'.frm_TravelClaim.'Travel Date From_DataCard1'.DataCardValue10"
               }
             }
           ],
@@ -704,19 +704,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Number Nights_DataCard1'.DataCardValue11.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Number Nights_DataCard1'.DataCardValue11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Number Nights_DataCard1'.DataCardValue11.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Number Nights_DataCard1'.DataCardValue11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Number Nights_DataCard1'.DataCardValue11"
+                "type": "'Travel Claim'.frm_TravelClaim.'Number Nights_DataCard1'.DataCardValue11"
               }
             }
           ],
@@ -734,19 +734,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Trave Date To_DataCard1'.DataCardValue19.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Trave Date To_DataCard1'.DataCardValue19.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Trave Date To_DataCard1'.DataCardValue19.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Trave Date To_DataCard1'.DataCardValue19.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Trave Date To_DataCard1'.DataCardValue19"
+                "type": "'Travel Claim'.frm_TravelClaim.'Trave Date To_DataCard1'.DataCardValue19"
               }
             }
           ],
@@ -764,19 +764,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Km Travelled_DataCard1'.DataCardValue12.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Km Travelled_DataCard1'.DataCardValue12.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Km Travelled_DataCard1'.DataCardValue12.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Km Travelled_DataCard1'.DataCardValue12.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Km Travelled_DataCard1'.DataCardValue12"
+                "type": "'Travel Claim'.frm_TravelClaim.'Km Travelled_DataCard1'.DataCardValue12"
               }
             }
           ],
@@ -794,19 +794,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Claim Date_DataCard1'.DataCardValue14.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Claim Date_DataCard1'.DataCardValue14.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Claim Date_DataCard1'.DataCardValue14.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Claim Date_DataCard1'.DataCardValue14.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Claim Date_DataCard1'.DataCardValue14"
+                "type": "'Travel Claim'.frm_TravelClaim.'Claim Date_DataCard1'.DataCardValue14"
               }
             }
           ],
@@ -824,19 +824,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Additional Costs_DataCard1'.DataCardValue13.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Additional Costs_DataCard1'.DataCardValue13.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Additional Costs_DataCard1'.DataCardValue13.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Additional Costs_DataCard1'.DataCardValue13.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Additional Costs_DataCard1'.DataCardValue13"
+                "type": "'Travel Claim'.frm_TravelClaim.'Additional Costs_DataCard1'.DataCardValue13"
               }
             }
           ],
@@ -854,19 +854,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Travel Rate Per Km_DataCard1'.DataCardValue15.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Travel Rate Per Km_DataCard1'.DataCardValue15.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Travel Rate Per Km_DataCard1'.DataCardValue15.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Travel Rate Per Km_DataCard1'.DataCardValue15.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Travel Rate Per Km_DataCard1'.DataCardValue15"
+                "type": "'Travel Claim'.frm_TravelClaim.'Travel Rate Per Km_DataCard1'.DataCardValue15"
               }
             }
           ],
@@ -884,19 +884,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.Travel_Reason_DataCard1.DataCardValue17.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.Travel_Reason_DataCard1.DataCardValue17.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.Travel_Reason_DataCard1.DataCardValue17.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.Travel_Reason_DataCard1.DataCardValue17.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.Travel_Reason_DataCard1.DataCardValue17"
+                "type": "'Travel Claim'.frm_TravelClaim.Travel_Reason_DataCard1.DataCardValue17"
               }
             }
           ],
@@ -914,19 +914,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Location From_DataCard1'.DataCardValue20.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Location From_DataCard1'.DataCardValue20.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Location From_DataCard1'.DataCardValue20.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Location From_DataCard1'.DataCardValue20.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Location From_DataCard1'.DataCardValue20"
+                "type": "'Travel Claim'.frm_TravelClaim.'Location From_DataCard1'.DataCardValue20"
               }
             }
           ],
@@ -944,19 +944,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Location To_DataCard1'.DataCardValue21.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Location To_DataCard1'.DataCardValue21.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.'Location To_DataCard1'.DataCardValue21.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.'Location To_DataCard1'.DataCardValue21.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.'Location To_DataCard1'.DataCardValue21"
+                "type": "'Travel Claim'.frm_TravelClaim.'Location To_DataCard1'.DataCardValue21"
               }
             }
           ],
@@ -974,19 +974,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.Attachments_DataCard2.DataCardValue22.AccessibleLabel"
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.Attachments_DataCard2.DataCardValue22.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Travel Claim'.Form2.Attachments_DataCard2.DataCardValue22.AccessibleLabel",
+                  "fullyQualifiedName": "'Travel Claim'.frm_TravelClaim.Attachments_DataCard2.DataCardValue22.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Travel Claim",
-                "type": "'Travel Claim'.Form2.Attachments_DataCard2.DataCardValue22"
+                "type": "'Travel Claim'.frm_TravelClaim.Attachments_DataCard2.DataCardValue22"
               }
             }
           ],
@@ -2204,19 +2204,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_1.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_Details.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_1.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_Details.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Approvals_Details",
-                "type": "'Leave Approvals_Details'.gal_LeaveApprovals_1"
+                "type": "'Leave Approvals_Details'.gal_LeaveApprovals_Details"
               }
             }
           ],
@@ -2234,19 +2234,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_1.TabIndex"
+                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_Details.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_1.TabIndex",
+                  "fullyQualifiedName": "'Leave Approvals_Details'.gal_LeaveApprovals_Details.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Leave Approvals_Details",
-                "type": "'Leave Approvals_Details'.gal_LeaveApprovals_1"
+                "type": "'Leave Approvals_Details'.gal_LeaveApprovals_Details"
               }
             }
           ],
@@ -2264,19 +2264,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "TravelClaim_Details.gal_LeaveApprovals_2.AccessibleLabel"
+                  "fullyQualifiedName": "TravelClaim_Details.gal_TravelClaim_Details.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "TravelClaim_Details.gal_LeaveApprovals_2.AccessibleLabel",
+                  "fullyQualifiedName": "TravelClaim_Details.gal_TravelClaim_Details.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "TravelClaim_Details",
-                "type": "TravelClaim_Details.gal_LeaveApprovals_2"
+                "type": "TravelClaim_Details.gal_TravelClaim_Details"
               }
             }
           ],
@@ -2294,19 +2294,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "TravelClaim_Details.gal_LeaveApprovals_2.TabIndex"
+                  "fullyQualifiedName": "TravelClaim_Details.gal_TravelClaim_Details.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "TravelClaim_Details.gal_LeaveApprovals_2.TabIndex",
+                  "fullyQualifiedName": "TravelClaim_Details.gal_TravelClaim_Details.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "TravelClaim_Details",
-                "type": "TravelClaim_Details.gal_LeaveApprovals_2"
+                "type": "TravelClaim_Details.gal_TravelClaim_Details"
               }
             }
           ],
@@ -3464,19 +3464,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'Start Date_DataCard1'.DataCardValue6.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'Start Date_DataCard1'.DataCardValue6.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'Start Date_DataCard1'.DataCardValue6.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'Start Date_DataCard1'.DataCardValue6.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Form1.'Start Date_DataCard1'.DataCardValue6"
+                "type": "'Leave Application'.frm_LeaveApplication.'Start Date_DataCard1'.DataCardValue6"
               }
             }
           ],
@@ -3494,19 +3494,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'Leave Type_DataCard1'.DataCardValue2.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'Leave Type_DataCard1'.DataCardValue2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'Leave Type_DataCard1'.DataCardValue2.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'Leave Type_DataCard1'.DataCardValue2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Form1.'Leave Type_DataCard1'.DataCardValue2"
+                "type": "'Leave Application'.frm_LeaveApplication.'Leave Type_DataCard1'.DataCardValue2"
               }
             }
           ],
@@ -3524,19 +3524,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'End Date_DataCard1'.DataCardValue7.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'End Date_DataCard1'.DataCardValue7.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Form1.'End Date_DataCard1'.DataCardValue7.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.'End Date_DataCard1'.DataCardValue7.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Form1.'End Date_DataCard1'.DataCardValue7"
+                "type": "'Leave Application'.frm_LeaveApplication.'End Date_DataCard1'.DataCardValue7"
               }
             }
           ],
@@ -3554,19 +3554,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Form1.Days_DataCard1.DataCardValue3.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.Days_DataCard1.DataCardValue3.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Form1.Days_DataCard1.DataCardValue3.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.Days_DataCard1.DataCardValue3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Form1.Days_DataCard1.DataCardValue3"
+                "type": "'Leave Application'.frm_LeaveApplication.Days_DataCard1.DataCardValue3"
               }
             }
           ],
@@ -3584,19 +3584,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Form1.Attachments_DataCard1.DataCardValue8.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.Attachments_DataCard1.DataCardValue8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Form1.Attachments_DataCard1.DataCardValue8.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.frm_LeaveApplication.Attachments_DataCard1.DataCardValue8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Form1.Attachments_DataCard1.DataCardValue8"
+                "type": "'Leave Application'.frm_LeaveApplication.Attachments_DataCard1.DataCardValue8"
               }
             }
           ],
@@ -3884,19 +3884,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Icon1.AccessibleLabel"
+                  "fullyQualifiedName": "'Leave Application'.Ico_LeaveApplication_Back.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Icon1.AccessibleLabel",
+                  "fullyQualifiedName": "'Leave Application'.Ico_LeaveApplication_Back.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Icon1"
+                "type": "'Leave Application'.Ico_LeaveApplication_Back"
               }
             }
           ],
@@ -3914,19 +3914,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Leave Application'.Icon1.TabIndex"
+                  "fullyQualifiedName": "'Leave Application'.Ico_LeaveApplication_Back.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Leave Application'.Icon1.TabIndex",
+                  "fullyQualifiedName": "'Leave Application'.Ico_LeaveApplication_Back.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Leave Application",
-                "type": "'Leave Application'.Icon1"
+                "type": "'Leave Application'.Ico_LeaveApplication_Back"
               }
             }
           ],
@@ -3938,6 +3938,66 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Leave Approvals_Details'.rdo_LeaveApprovals.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Leave Approvals_Details'.rdo_LeaveApprovals.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Leave Approvals_Details",
+                "type": "'Leave Approvals_Details'.rdo_LeaveApprovals"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TravelClaim_Details.rdo_TravelClaim_Details.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TravelClaim_Details.rdo_TravelClaim_Details.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TravelClaim_Details",
+                "type": "TravelClaim_Details.rdo_TravelClaim_Details"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
         },
         {
           "locations": [
