@@ -1,4 +1,4 @@
-"'Leave Status' As screen":
+"'Leave Status Landing Screen' As screen":
 
     "cmp_LeaveStatus As 'Screen Background'":
         ZIndex: =2

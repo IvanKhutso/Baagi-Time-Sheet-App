@@ -1,0 +1,86 @@
+"'Leave Approvals' As screen":
+
+    "cmp_LeaveApprovals As 'Screen Background'":
+        ZIndex: =2
+
+    "gal_LeaveApprovals As gallery.'BrowseLayout_Vertical_OneImageThreeColumnVariant_ver5.0'":
+        DelayItemLoading: =true
+        Fill: =RGBA(250, 250, 250, 1)
+        Height: =487
+        Items: =Leave
+        Layout: =Layout.Vertical
+        LoadingSpinner: =LoadingSpinner.Data
+        ShowScrollbar: =false
+        TemplatePadding: =4
+        TemplateSize: =133
+        Width: =1346
+        WrapCount: =3
+        X: =20
+        Y: =148
+        ZIndex: =3
+
+        icn_LeaveApprovals_BackGround As rectangle:
+            Fill: =RGBA(219, 219, 219, 1)
+            Height: =130
+            Width: =440
+            X: =0.3333333333333144
+            ZIndex: =1
+
+        lbl_LeaveApprovals_Type_ As label:
+            Font: =Font.Georgia
+            FontWeight: =FontWeight.Semibold
+            Height: =46
+            Size: =16
+            Text: |-
+                ="Type: " 
+            Width: =96
+            Y: =84
+            ZIndex: =2
+
+        "'lbl_LeaveApprovals_Start Date' As label":
+            Font: =Font.Georgia
+            FontWeight: =FontWeight.Semibold
+            Height: =46
+            Size: =16
+            Text: |-
+                ="Start Date: " 
+            Width: =142
+            ZIndex: =3
+
+        lbl_LeaveApprovals_Date As label:
+            Font: =Font.Georgia
+            Size: =16
+            Text: =ThisItem.'Start Date'
+            Width: =277
+            X: =142
+            ZIndex: =4
+
+        lbl_LeaveApprovals_No_Days As label:
+            Font: =Font.Georgia
+            FontWeight: =FontWeight.Semibold
+            Height: =46
+            Size: =16
+            Text: |-
+                ="No Of Days:" 
+            Width: =142
+            Y: =42
+            ZIndex: =5
+
+        lbl_LeaveApprovals_NoDays As label:
+            Font: =Font.Georgia
+            Size: =16
+            Text: =ThisItem.Days
+            Width: =277
+            X: =142
+            Y: =42
+            ZIndex: =6
+
+        lbl_LeaveApprovals_Type As label:
+            Font: =Font.Georgia
+            Size: =16
+            Text: =ThisItem.'Leave Type'.Value
+            Width: =277
+            X: =142
+            Y: =87
+            ZIndex: =8
+

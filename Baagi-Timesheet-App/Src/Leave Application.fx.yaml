@@ -421,7 +421,7 @@
         OnSelect: |-
             =SubmitForm(Form1
             );ResetForm(Form1);
-            Navigate('Leave Status')
+            Navigate('Leave Status Landing Screen')
         Text: ="Submit"
         X: =1167
         Y: =620
