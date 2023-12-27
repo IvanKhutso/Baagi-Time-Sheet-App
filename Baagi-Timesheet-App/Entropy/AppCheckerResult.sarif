@@ -3404,6 +3404,366 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.icn_TravelClaim_Background_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Name"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_Reasonlbl_lbl"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TravelClaim Approvals",
+                "type": "'TravelClaim Approvals'.gal_TravelClaimApprovals.lbl_TravelClaim_TravReason_"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'TravelClaim Landing Screen'.gal_TravelClaimLanding.lbl_TravelClaiml_Status.Color"
                 }
               ],

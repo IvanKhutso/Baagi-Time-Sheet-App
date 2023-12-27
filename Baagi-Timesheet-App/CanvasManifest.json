@@ -136,11 +136,12 @@
     "TravelClaim Landing Screen",
     "Time Sheet",
     "Leave Status Landing Screen",
-    "Leave Approvals",
     "Leave Application",
     "Travel Claim",
     "Manager",
     "Timesheet Approvals",
-    "Timesheet Details Approvals"
+    "Timesheet Details Approvals",
+    "Leave Approvals",
+    "TravelClaim Approvals"
   ]
 }

@@ -42,6 +42,7 @@ Manager As screen:
         Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
         Height: =73
+        OnSelect: =Navigate('TravelClaim Approvals')
         RadiusBottomLeft: =25
         RadiusBottomRight: =25
         RadiusTopLeft: =25
