@@ -427,3 +427,12 @@
         Y: =620
         ZIndex: =4
 
+    Icon1 As icon.BackArrow:
+        Height: =83
+        Icon: =Icon.BackArrow
+        OnSelect: =Back()
+        Width: =71
+        X: =14
+        Y: =12
+        ZIndex: =5
+

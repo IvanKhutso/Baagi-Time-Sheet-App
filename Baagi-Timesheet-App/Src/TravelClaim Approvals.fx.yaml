@@ -48,7 +48,7 @@
         lbl_TravelClaim_Name As label:
             Font: =Font.Georgia
             Size: =14
-            Text: =ThisItem.'Name'
+            Text: =ThisItem.Name
             Width: =267
             X: =152
             Y: =16

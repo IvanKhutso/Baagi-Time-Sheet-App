@@ -133,10 +133,10 @@
   },
   "ScreenOrder": [
     "TimeSheet Landing Screen",
-    "TravelClaim Landing Screen",
     "Time Sheet",
     "Leave Status Landing Screen",
     "Leave Application",
+    "TravelClaim Landing Screen",
     "Travel Claim",
     "Manager",
     "Timesheet Approvals",
