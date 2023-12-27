@@ -142,6 +142,8 @@
     "Timesheet Approvals",
     "Timesheet Details Approvals",
     "Leave Approvals",
-    "TravelClaim Approvals"
+    "Leave Approvals_Details",
+    "TravelClaim Approvals",
+    "TravelClaim_Details"
   ]
 }
